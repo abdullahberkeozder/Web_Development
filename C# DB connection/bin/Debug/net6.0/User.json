@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "abd",
+    "Age": 23,
+    "TotalDebt": 1250,
+    "EnterDate": "2024-05-05T00:00:00",
+    "EndDate": "2026-06-06T00:00:00",
+    "Club": {
+      "Id": 2,
+      "Name": "Chelsea FC",
+      "NumberOfSupporters": 1
+    },
+    "MonthlySupport": 50
+  },
+  {
+    "Name": "asd",
+    "Age": 23,
+    "TotalDebt": 4128,
+    "EnterDate": "2026-05-05T00:00:00",
+    "EndDate": "2027-05-05T00:00:00",
+    "Club": {
+      "Id": 3,
+      "Name": "Leeds United FC",
+      "NumberOfSupporters": 1
+    },
+    "MonthlySupport": 344
+  },
+  {
+    "Name": "ads",
+    "Age": 69,
+    "TotalDebt": 875,
+    "EnterDate": "2026-05-05T00:00:00",
+    "EndDate": "2028-06-06T00:00:00",
+    "Club": {
+      "Id": 3,
+      "Name": "Leeds United FC",
+      "NumberOfSupporters": 1
+    },
+    "MonthlySupport": 35
+  }
+]

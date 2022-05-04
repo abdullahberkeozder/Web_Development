@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Manchester United FC",
+    "NumberOfSupporters": 0
+  },
+  {
+    "Id": 2,
+    "Name": "Chelsea FC",
+    "NumberOfSupporters": 0
+  },
+  {
+    "Id": 3,
+    "Name": "Leeds United FC",
+    "NumberOfSupporters": 0
+  },
+  {
+    "Id": 4,
+    "Name": "Arsenal FC",
+    "NumberOfSupporters": 0
+  }
+]
